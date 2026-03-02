@@ -1,3 +1,3 @@
 plus:
-silent:blob:https://github.com/e21409e4-1849-4bfa-9055-5364390f1947
+silent:https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/Generated Image March 01, 2026 - 6_40PM.png
 uid:
