@@ -2,4 +2,4 @@
 # Format: id:Title:Slogan
 premium:External Premium:Premium External Cheat Menu:EXE
 silent:Silent Aim:Brutest Cheat Menu Ever:DLL
-uid:UID Bypass:Bypass Emulator Detection:EXE
+uid:UID Bypass:Bypass Emulator Detection:DLL
