@@ -1,4 +1,4 @@
 # ARISE CORPORATION — Product List
 # Format: id:Title:Slogan
-silent:Silent Aim:Brutest Cheat Menu Ever:DLL
-uid:UID Bypass:Bypass Emulator Detection:DLL
+silent:Silent Aim:Brutest Cheat Menu Ever:DLL:HD-Player.exe
+uid:UID Bypass:Bypass Emulator Detection:DLL:HD-Player.exe
