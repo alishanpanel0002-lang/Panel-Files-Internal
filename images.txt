@@ -1,3 +1,3 @@
-plus:https://raw.githubusercontent.com/.../icon1.png
-silent:https://raw.githubusercontent.com/.../icon2.png
-uid:https://raw.githubusercontent.com/.../icon3.png
+plus:
+silent:blob:https://github.com/e21409e4-1849-4bfa-9055-5364390f1947
+uid:
