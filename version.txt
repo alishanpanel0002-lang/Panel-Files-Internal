@@ -1,0 +1,2 @@
+min_version:1
+update_msg:Please download the latest ARISE Loader.
