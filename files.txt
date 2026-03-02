@@ -1,6 +1,6 @@
-# id | filename | action(inject/store/run) | url
-silent|cimgui.dll|inject|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/cimgui.dll
-silent|Client.dll|store|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/Client.dll
-silent|AotBst.dll|inject|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/AotBst.dll
-premium|AotBst.dll|inject|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/AotBst.dll
-uid|AotBst.dll|inject|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/AotBst.dll
+# id | filename | action(inject/store/run) | Delay | url
+silent|cimgui.dll|inject|800|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/cimgui.dll
+silent|Client.dll|store|0|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/Client.dll
+silent|AotBst.dll|inject|1200|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/AotBst.dll
+premium|AotBst.dll|inject|0|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/AotBst.dll
+uid|AotBst.dll|inject|0|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/AotBst.dll
