@@ -1,5 +1,5 @@
 loader_enabled:1
-motd:Welcome! Silent Aim v2.1 now available.
+motd:Welcome! External Premium is Under Maintenance.
 premium:2
 silent:1
 uid:2
