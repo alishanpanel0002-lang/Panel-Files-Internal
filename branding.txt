@@ -2,7 +2,7 @@
 # All values are optional. Missing = default is used.
 
 # Logo text (2 words, second word gets accent color)
-word1:REHAN
+word1:ARISE
 word2:CORPORATION
 
 # Window size
