@@ -20,10 +20,10 @@ bg_g:32
 bg_b:65
 
 # Font sizes (pixels)
-font_size:12
-brand_font_sz:40
+font_size:18
+brand_font_sz:46
 label_font_sz:15
-title_font_sz:26
+title_font_sz:20
 pct_font_sz:22
 
 # Card carousel layout
