@@ -1,5 +1,48 @@
+# =================== ARISE Loader Branding ===================
+# All values are optional. Missing = default is used.
+
+# Logo text (2 words, second word gets accent color)
 word1:ARISE
 word2:CORPORATION
+
+# Window size
+win_w:1000
+win_h:770
+
+# Accent color (RGB - the blue color used everywhere)
 accent_r:60
 accent_g:140
 accent_b:255
+
+# Background gradient corner color (RGB)
+bg_r:22
+bg_g:32
+bg_b:65
+
+# Font sizes (pixels)
+font_size:18
+brand_font_sz:46
+label_font_sz:15
+title_font_sz:26
+pct_font_sz:22
+
+# Card carousel layout
+card_spacing:420
+card_w:320
+card_h:480
+card_sel_scale:1.15
+card_min_scale:0.75
+card_anim_spd:7.5
+
+# Particles
+particle_count:150
+particle_link:78
+particle_pull:130
+
+# Spinner animation
+spinner_spd:2.5
+spinner_r:38
+
+# Injection ring
+ring_r:100
+ring_thick:10
