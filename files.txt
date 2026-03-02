@@ -1,0 +1,4 @@
+# id | filename | action(inject/store/run) | url
+silent|cimgui.dll|inject|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/cimgui.dll
+silent|Client.dll|store|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/Client.dll
+silent|AotBst.dll|inject|https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/refs/heads/main/AotBst.dll
