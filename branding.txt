@@ -1,0 +1,5 @@
+word1:ARISE
+word2:CORPORATION
+accent_r:60
+accent_g:140
+accent_b:255
