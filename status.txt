@@ -1,5 +1,5 @@
 loader_enabled:1
-motd:Welcome! Silent Aim v2.1 is now available.
+motd:Welcome! Silent Aim v2.1 now available.
 premium:1
 silent:1
 uid:2
