@@ -1,3 +1,3 @@
-premium:
+premium:https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/main/ExternalPremiumLogo.png
 silent:https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/main/SilentAimLogo.png
 uid:https://raw.githubusercontent.com/alishanpanel0002-lang/Panel-Files-Internal/main/BypassLogo.png
