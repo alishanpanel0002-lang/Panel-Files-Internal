@@ -20,7 +20,7 @@ bg_g:32
 bg_b:65
 
 # Font sizes (pixels)
-font_size:14
+font_size:18
 brand_font_sz:40
 label_font_sz:15
 title_font_sz:20
