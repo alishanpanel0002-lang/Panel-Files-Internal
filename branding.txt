@@ -2,7 +2,7 @@
 # All values are optional. Missing = default is used.
 
 # Logo text (2 words, second word gets accent color)
-word1:REHAN
+word1:ARISE
 word2:CORPORATION
 
 # Window size
@@ -21,7 +21,7 @@ bg_b:65
 
 # Font sizes (pixels)
 font_size:18
-brand_font_sz:46
+brand_font_sz:40
 label_font_sz:15
 title_font_sz:20
 pct_font_sz:22
