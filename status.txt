@@ -4,3 +4,48 @@ premium:2
 silent:1
 uid:2
 poll_interval:120   #Per Hour
+
+
+# =================== ARISE Loader Strings ===================
+# All keys are optional. Fallback defaults are used if missing.
+
+# Status badges on cards
+status_0:Operational
+status_1:Elevated Risk
+status_2:Under Maintenance
+
+# Loading screen text
+txt_connecting:ESTABLISHING SECURE CONNECTION...
+txt_loading:CONNECTING TO SERVERS...
+txt_loading_products:LOADING PRODUCTS...
+txt_no_conn:NO SERVER CONNECTION
+txt_no_conn_sub:Servers are unreachable.
+
+# Error / state screens
+txt_cfg_error:CONFIGURATION ERROR
+txt_cfg_error_sub:Fix GitHub config files and restart.
+txt_killed:SERVICE UNAVAILABLE
+txt_killed_sub:Loader temporarily disabled.
+txt_update:UPDATE REQUIRED
+
+# Injection / deployment messages
+txt_sync:CLOUD SYNC INITIATED
+txt_downloading:DOWNLOADING
+txt_prep_exe:PREPARING EXECUTION
+txt_prep_dll:ACQUIRING ENGINE HANDLE
+txt_launch:LAUNCHING
+txt_deploy:FINAL DEPLOYMENT
+txt_success:DEPLOYMENT SUCCESSFUL
+txt_not_found:ABORTED: PROCESS NOT FOUND
+txt_integrity:SECURITY ALERT: INTEGRITY VIOLATION
+txt_dl_failed:ERROR: DOWNLOAD FAILED
+
+# MessageBox popups
+msg_maintenance:This product is currently Under Maintenance.\nPlease check back later.
+msg_maintenance_title:Under Maintenance
+msg_risk:This product carries an elevated risk of detection.\nContinue at your own risk?
+msg_risk_title:Elevated Risk
+
+# Buttons
+btn_exit:EXIT
+btn_dismiss:DISMISS AND CONTINUE
