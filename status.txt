@@ -3,4 +3,4 @@ motd:Welcome To Arise Cheats.
 premium:2
 silent:1
 uid:2
-poll_interval:30
+poll_interval:120
