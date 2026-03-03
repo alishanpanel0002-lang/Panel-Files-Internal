@@ -1,5 +1,5 @@
 loader_enabled:1
-motd:Welcome To Arise Corporation.
+motd:Welcome To Arise Cheats.
 premium:2
 silent:1
 uid:2
