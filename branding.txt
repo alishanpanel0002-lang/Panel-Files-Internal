@@ -4,8 +4,7 @@
 # Logo text (2 words, second word gets accent color)
 word1:ARISE
 word2:CORPORATION
-win_title:Arise Corporation Loader        ← NEW: controls OS 
-
+win_title:Arise Corporation Loader
 # Window size
 win_w:1000
 win_h:770
