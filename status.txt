@@ -1,9 +1,9 @@
 loader_enabled:1
 motd:Welcome To Arise Cheats.
 premium:2
-silent:1
+silent:0
 uid:2
-poll_interval:120   #Per Hour
+poll_interval:60   #Per Hour
 
 
 # =================== ARISE Loader Strings ===================
