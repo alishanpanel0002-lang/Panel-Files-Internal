@@ -1,5 +1,5 @@
 loader_enabled:1
-motd:Welcome To Arise Cheats.
+motd:Welcome! Silent Aim V2 Released.
 premium:2
 silent:0
 uid:2
